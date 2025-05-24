@@ -1,0 +1,5 @@
+region        = "ap-south-1"
+instance_type = "t2.small"
+access_key    = "your_access_key_here"
+secret_key    = "your_secret_key_here"
+ami_id        = "ami-0dee22c13ea7a9a67"

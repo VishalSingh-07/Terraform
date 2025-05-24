@@ -1,0 +1,5 @@
+region        = "ap-south-1"
+instance_type = "t2.micro"
+access_key    = "your_access_key_here"
+secret_key    = "your_secret_key_here"
+ami_id        = "ami-053b12d3152c0cc71"

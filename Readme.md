@@ -2,7 +2,6 @@
 
 Welcome to the **Terraform Notes** repository! This is your one-stop resource for clear, practical notes and hands-on examples for mastering [Terraform](https://www.terraform.io/) — the industry-standard tool for Infrastructure as Code (IaC).
 
----
 
 ## 📖 Overview
 
@@ -16,7 +15,6 @@ Whether you’re just starting your DevOps journey or looking to deepen your clo
 - 🌐 Workspaces and environment management
 - 💡 Real-world examples and best practices
 
----
 
 ## 🎥 Source
 
@@ -24,7 +22,6 @@ Whether you’re just starting your DevOps journey or looking to deepen your clo
 
 - Follow along with the playlist for step-by-step explanations and practical demonstrations!
 
----
 
 ## 📂 Repository Structure
 
@@ -32,7 +29,6 @@ Whether you’re just starting your DevOps journey or looking to deepen your clo
 - 📄 **Each `readme.md` file** provides clear explanations, code samples, and helpful tips.
 - 💻 **Code snippets** are included for hands-on practice and quick reference.
 
----
 
 ## 🚀 Getting Started
 
@@ -47,7 +43,6 @@ Whether you’re just starting your DevOps journey or looking to deepen your clo
 
 4. **Try out the code** on your local machine or cloud environment.
 
----
 
 ## 🤝 Contributing
 
@@ -81,7 +76,6 @@ Contributions are always welcome! If you have suggestions, corrections, or new e
 
 I will review your pull request as soon as possible. Thank you for contributing!
 
----
 
 ## 📧 Contact
 
